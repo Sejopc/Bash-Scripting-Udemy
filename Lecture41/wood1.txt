@@ -1,0 +1,2 @@
+./stdin_stdout_stderr.sh: line 8: something: command not found
+./stdin_stdout_stderr.sh: line 8: something: command not found

@@ -1,0 +1,2 @@
+This line is sent to wood.txt
+./stdin_stdout_stderr.sh: line 6: something: command not found

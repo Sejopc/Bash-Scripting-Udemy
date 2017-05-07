@@ -1,0 +1,3 @@
+Something more
+
+# This file is just an example to running:  : > wood.txt or   : >> wood.txt after we have typed something on it. In this case: "Something more"
